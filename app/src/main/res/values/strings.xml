@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapRest</string>
+    <string name="title_activity_map_">Map_Activity</string>
+    <string name="title_activity_maps_country">Map</string>
+</resources>
